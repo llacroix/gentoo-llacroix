@@ -6,9 +6,9 @@ EAPI=5
 
 inherit git-r3 eutils
 
-DESCRIPTION=""
-HOMEPAGE=""
-SRC_URI=""
+DESCRIPTION="The hamster time-tracker"
+HOMEPAGE="https://github.com/projecthamster"
+#SRC_URI=""
 EGIT_REPO_URI="https://github.com/projecthamster/hamster.git"
 
 LICENSE=""
